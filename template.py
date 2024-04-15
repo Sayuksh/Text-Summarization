@@ -17,13 +17,13 @@ list_of_files=[
     f"src/{project_name}/pipline/__init__.py",
     f"src/{project_name}/entity/__init__.py",
     f"src/{project_name}/constants/__init__.py"
-    "config/config.yaml"
-    "params.yaml"
+    "config/config.yaml",
+    "params.yaml",
     "app.py",
     "main.py"
     "Dockerfile",
     "requirements.txt",
-    "setup.py"
+    "setup.py",
     "research/trails.ipynb"
 
 ]
