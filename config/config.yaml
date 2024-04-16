@@ -1,0 +1,5 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  root_dir: artifact/data_ingestion
+  source_URL: https://github.com/Sayuksh/Text-Summarization
