@@ -8,7 +8,7 @@ pandas
 nltk
 PyYAML
 matplotlib
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+torch 
 notebook
 boto3
 mypy-boto3-s3
